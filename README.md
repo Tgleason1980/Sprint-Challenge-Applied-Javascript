@@ -36,7 +36,7 @@ Document Object Model where we can manipulate actions on the webpage.
 
 2. What is an event?
 
-an action on the DOM
+an action on the DOM such as a click or mouseover
 
 3. What is an event listener?
 
